@@ -46,21 +46,11 @@ function App() {
       <Table striped bordered hover variant="dark">
         <thead>
             <tr>
-              <th>
-                <Button variant="outline-warning">#</Button>{' '}
-              </th>
-              <th>
-                <Button variant="outline-warning">First Name</Button>{' '}
-              </th>
-              <th>
-                <Button variant="outline-warning">Last Name</Button>{' '}
-              </th>
-              <th>
-                <Button variant="outline-warning">Title</Button>{' '}
-              </th>
-              <th>
-                <Button variant="outline-warning">Department</Button>{' '}
-              </th>
+              <th>#</th>
+              <th>First Name</th>
+              <th>Last Name</th>
+              <th>Title</th>
+              <th>Department</th>
             </tr>
         </thead>
         <tbody>
