@@ -1,6 +1,6 @@
 # React-Employee-Directory
 
-This application was created with React.js
+This application was created with React.js: https://limitless-wildwood-27296.herokuapp.com/
 
 ## User Story
 
@@ -13,3 +13,5 @@ THEN a full list of employees is displayed
 
 WHEN I select a field from the dropdown menu,
 THEN I am able to sort my employees by first name, last name, title or department
+
+![](images/Employee-Directory.png)
